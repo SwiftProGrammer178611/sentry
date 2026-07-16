@@ -49,7 +49,7 @@ The editor snapshot is in `breadboard-project.json`.
 | OLED display | 1 |
 | PIR sensor | 1 |
 | Light sensor | 1 |
-| DHT22 sensor | 1 |
+| DHT11 sensor | 1 |
 | Push button | 1 |
 | RGB LED | 1 |
 | Resistor | 3 |
